@@ -1,3 +1,7 @@
+
+
+// class work
+
 // var mcqQues=[
 //     {
 //         question : "Is JS easy?",
@@ -41,6 +45,7 @@
 
 
 
+// bootstrap code
 
 // var name = prompt("Enter your name: ")
 
